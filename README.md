@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Johannes%20Gustafsson&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Development%20%E2%80%A2%20Database%20Systems%20%E2%80%A2%20Automation&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+focused+developer;Passionate+about+APIs%2C+and+databases;Building+systems+with+Node.js+and+PostgreSQL;TE4+Gymnasieingenj%C3%B6r+Student+from+Sweden" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+focused+developer;Passionate+about+APIs%2C+and+databases;Building+systems+with+Python+and+Flask;TE4+Gymnasieingenj%C3%B6r+from+Sweden" />
 </p>
 
 # Hey, I'm Johannes
 
 ### Passionate about backend development, databases, APIs
 
-Currently studying **TE4 Gymnasieingenjör** at NTI Gymnasiet, graduating summer 2026.
+Graduated as a **TE4 Gymnasieingenjör** from NTI Gymnasiet, summer 2026.
 
 <p>
   <a href="https://www.linkedin.com/in/johannes-gustafsson-31b7ba330/" target="_blank">
@@ -41,6 +41,9 @@ location: Karlstad, Sweden
 education:
   - "NTI Gymnasiet - Informationsteknik (2022-2025)"
   - "NTI Gymnasiet - TE4 Gymnasieingenjör (2025-2026)"
+
+experience:
+  - "Gymnasieingenjörspraktikant (Mjukvaruutveckling) @ Motum Väst (Jan-Mar 2026)"
 ```
 
 <p align="center">
@@ -70,6 +73,10 @@ education:
 
   <a href="https://www.lua.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=lua" />
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -143,10 +150,6 @@ education:
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://skillicons.dev/icons?i=githubactions" />
   </a>
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
 </p>
 
 <p>
@@ -173,12 +176,14 @@ education:
 
 # Featured Project
 
-## Quizzical
+## Quizzical (HissQuiz)
 
 > Interactive elevator data collection and analysis platform for Karlstad, Sweden.
 
-Users scan QR codes placed in elevators and fill out a feedback form.
-The platform stores submissions, visualizes elevator statistics, and displays results on an interactive city map.
+Built during an internship at Motum Väst as a Gymnasieingenjörspraktikant. Users scan QR codes
+placed in elevators and fill out a feedback form. The platform stores submissions, visualizes
+elevator statistics, and displays results on an interactive city map. Implemented authentication,
+form handling, and security features (XSS protection, input validation) on the backend.
 
 ### Built With
 
@@ -187,16 +192,20 @@ The platform stores submissions, visualizes elevator statistics, and displays re
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" />
   </a>
 
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" />
+  <a href="https://mantine.dev/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mantine" height="48" />
   </a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
   </a>
 </p>
 
